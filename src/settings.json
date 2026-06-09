@@ -7,24 +7,22 @@
     "Language": "en"
   },
   "Header": {
-    "Name": "Jane Doe",
-    "Bio": "Creator of creative creations",
-    "Avatar": "default2.webp"
+    "Name": "Wojciech Kryński",
+    "Bio": "Computer Science student",
+    "Avatar": "default.png"
   },
   "Links": {
-    "My last album": "#",
-    "My last video": "#",
-    "My thoughts": "#",
-    "My project": "#"
+    "About": "/about",
+    "Source code": "https://github.com/WITEX121/wkrynski.dev"
   },
   "Social": {
-    "Linkedin": "https://linkedin.com/",
-    "Mastodon": "https://mastodon.social",
+    "Linkedin": "https://www.linkedin.com/in/wojciech-kry%C5%84ski-0b96702a0/",
+    "Mastodon": "",
     "Bluesky": "",
     "Threads": "",
     "Twitter": "",
     "Instagram": "",
-    "Pinterest": "https://pinterest.com",
+    "Pinterest": "",
     "Snapchat": "",
     "Facebook": "",
     "Vimeo": "",
@@ -35,14 +33,14 @@
     "SoundCloud": "",
     "Tidal": "",
     "Spotify": "",
-    "GitHub": "https://github.com",
+    "GitHub": "https://github.com/WITEX121",
     "GitLab": "",
     "Codeberg": "",
     "StackOverflow": "",
     "Discord": "",
     "Behance": "",
     "Dribbble": "",
-    "Reddit": "https://www.reddit.com/",
+    "Reddit": "",
     "Quora": "",
     "Substack": "",
     "Medium": "",
@@ -52,11 +50,9 @@
     "Strava": ""
   },
   "Footer": {
-    "Text": "No cookies, no forms, and no data collection.",
+    "Text": "No cookies, no forms, no data collection.",
     "Menu": {
-      "Cakes Policy": "cakes",
-      "Meat Policy": "meat",
-      "Fish Notice": "fish"
+      "About": "about"
     }
   }
 }
